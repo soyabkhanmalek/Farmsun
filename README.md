@@ -1,6 +1,6 @@
 # Farmsun Eco Agri Solution
 
-##This is the first website i am building right now.
+#This is my first try at building website.
 
 TO-DO
 
