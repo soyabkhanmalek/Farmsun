@@ -89,7 +89,7 @@ a{
 }*/
 .paragraph{
     text-align: justify;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Segoe UI',Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 110% ;
     padding-top: 10px;
     max-width: 1300px;
