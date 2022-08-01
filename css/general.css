@@ -8,7 +8,7 @@ img.logo{
 }
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   /* background-color: rgb(206, 194, 156);*/
+    background-color: rgb(196, 237, 214);
    font-size: 110%;
    /*background-image: url(/Farmsun/images/background2.png);*/
    
@@ -49,6 +49,7 @@ a{
     min-height: fit-content;
     box-shadow: 10px 8px 10px 0px rgba(53, 51, 51, 0.4);
     margin: 20px;
+    border-radius: 25px;
 
 
 }
@@ -73,6 +74,7 @@ a{
     background-color: rgb(251, 255, 0);
     color: rgb(34, 111, 179);
     z-index: 1;
+    border-radius: 25px;
 }
 /*.products{
     
@@ -127,3 +129,4 @@ a{
     text-decoration: none;
 
 }
+
